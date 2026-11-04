@@ -1,0 +1,9 @@
+.env
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+*.toe
+*.blend
+*.obj
+*.mtl
+*.npy
